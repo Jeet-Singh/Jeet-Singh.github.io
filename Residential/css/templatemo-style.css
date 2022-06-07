@@ -216,6 +216,10 @@ img
     }
 /* end divider */
 
+#products h1
+    {
+        text-align: center;
+    }
 /* start feature */
 #feature
     {
